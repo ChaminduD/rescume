@@ -16,7 +16,7 @@ export function Hero() {
             Build a resume that feels made for the job.
           </h1>
 
-          <p className="mt-6 max-w-lg text-base leading-7 text-muted-foreground">
+          <p className="mt-6 max-w-lg text-base text-muted-foreground">
             RescuMe helps users create polished, ATS-friendly resumes with AI guidance,
             fast editing, and clean export-ready layouts.
           </p>
